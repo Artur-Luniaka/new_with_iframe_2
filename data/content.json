@@ -1,0 +1,329 @@
+{
+  "header": {
+    "logo": "domain.com",
+    "navigation": [
+      {
+        "text": "AirHub",
+        "url": "./"
+      },
+      {
+        "text": "How to Play",
+        "url": "#how-to-play"
+      },
+      {
+        "text": "Air Traffic News",
+        "url": "./air-traffic-news.html"
+      },
+      {
+        "text": "Contact Tower",
+        "url": "./contact-tower.html"
+      },
+      {
+        "text": "Flight Disclaimer",
+        "url": "./air-disclaimer.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Airport Tycoon",
+    "description": "Build and manage your dream airport empire! Control air traffic, expand terminals, and become an aviation mogul.",
+    "backgroundImage": "images/hero-bg.png",
+    "highlights": [
+      "Real-time flight management",
+      "Multiple aircraft types",
+      "Dynamic weather system",
+      "Economic challenges"
+    ]
+  },
+  "features": {
+    "title": "Airport Features",
+    "subtitle": "Your gateway to aviation management excellence",
+    "cards": [
+      {
+        "title": "Air Traffic Control",
+        "description": "Master the skies with our advanced air traffic control system. Guide planes safely through takeoffs and landings.",
+        "image": "images/img-1.png",
+        "highlights": [
+          "Real-time radar",
+          "Weather monitoring",
+          "Emergency protocols"
+        ]
+      },
+      {
+        "title": "Terminal Management",
+        "description": "Create the perfect passenger experience with modern terminals and efficient operations.",
+        "image": "images/img-2.png",
+        "highlights": [
+          "Passenger flow",
+          "Security checkpoints",
+          "Retail spaces"
+        ]
+      },
+      {
+        "title": "Fleet Operations",
+        "description": "Manage diverse aircraft types and optimize your airport's capacity for maximum efficiency.",
+        "image": "images/img-3.png",
+        "highlights": [
+          "Aircraft maintenance",
+          "Gate management",
+          "Fuel operations"
+        ]
+      },
+      {
+        "title": "Airport Services",
+        "description": "Provide top-tier services that keep your airport running smoothly and passengers happy.",
+        "image": "images/img-4.png",
+        "highlights": ["Ground handling", "Baggage systems", "Customer service"]
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "How to Play",
+    "subtitle": "Your flight plan to success",
+    "steps": [
+      {
+        "title": "Start Your Journey",
+        "description": "Begin with a small regional airport and master the basics of airport management.",
+        "icon": "🛫",
+        "tips": [
+          "Choose your starting location",
+          "Build essential facilities",
+          "Hire key staff"
+        ]
+      },
+      {
+        "title": "Expand Operations",
+        "description": "Grow your airport with new terminals and improved facilities.",
+        "icon": "🏗️",
+        "tips": ["Add new runways", "Expand terminal space", "Upgrade systems"]
+      },
+      {
+        "title": "Optimize Performance",
+        "description": "Fine-tune your operations for maximum efficiency and profit.",
+        "icon": "📈",
+        "tips": [
+          "Monitor traffic flow",
+          "Balance resources",
+          "Improve services"
+        ]
+      },
+      {
+        "title": "Go International",
+        "description": "Transform your airport into a global aviation hub.",
+        "icon": "🌍",
+        "tips": [
+          "Add international gates",
+          "Expand customs",
+          "Partner with airlines"
+        ]
+      }
+    ]
+  },
+  "reviews": {
+    "title": "Player Reviews",
+    "subtitle": "What our community says about Airport Tycoon",
+    "items": [
+      {
+        "author": "Sarah Thompson",
+        "role": "Aviation Enthusiast",
+        "avatar": "images/img-5.png",
+        "rating": 5,
+        "text": "The most realistic airport management game I've ever played! The attention to detail in flight scheduling and terminal management is impressive.",
+        "date": "March 15, 2024",
+        "verified": true
+      },
+      {
+        "author": "Michael Chen",
+        "role": "Strategy Gamer",
+        "avatar": "images/img-6.png",
+        "rating": 5,
+        "text": "Addictive gameplay with perfect balance between challenge and fun. I've spent countless hours expanding my airport empire!",
+        "date": "March 12, 2024",
+        "verified": true
+      },
+      {
+        "author": "Emma Rodriguez",
+        "role": "Casual Player",
+        "avatar": "images/img-1.png",
+        "rating": 4,
+        "text": "Great game for both beginners and experienced players. The tutorial is helpful, and the progression system keeps me engaged.",
+        "date": "March 10, 2024",
+        "verified": true
+      },
+      {
+        "author": "James Wilson",
+        "role": "Airport Manager",
+        "avatar": "images/img-2.png",
+        "rating": 5,
+        "text": "As someone who works in the industry, I'm impressed by the realistic aspects of airport operations. The economic system is well thought out.",
+        "date": "March 8, 2024",
+        "verified": true
+      }
+    ],
+    "stats": [
+      {
+        "number": "4.8",
+        "label": "Average Rating"
+      },
+      {
+        "number": "50K+",
+        "label": "Active Players"
+      },
+      {
+        "number": "1M+",
+        "label": "Flights Managed"
+      }
+    ]
+  },
+  "businessExpansion": {
+    "title": "Business Expansion",
+    "description": "Take your airport to new heights",
+    "subtitle": "Strategic growth opportunities await",
+    "features": [
+      {
+        "title": "International Terminal",
+        "description": "Open your doors to the world with international flights",
+        "requirements": [
+          "Customs facilities",
+          "International gates",
+          "Extended runways"
+        ]
+      },
+      {
+        "title": "Cargo Hub",
+        "description": "Establish a powerful cargo operation network",
+        "requirements": [
+          "Cargo terminals",
+          "Logistics center",
+          "Storage facilities"
+        ]
+      },
+      {
+        "title": "Premium Services",
+        "description": "Elevate the passenger experience",
+        "requirements": [
+          "First class lounges",
+          "Express security",
+          "Concierge service"
+        ]
+      },
+      {
+        "title": "Tech Innovation",
+        "description": "Implement cutting-edge airport technology",
+        "requirements": [
+          "Smart systems",
+          "Automated services",
+          "Digital solutions"
+        ]
+      }
+    ],
+    "image": "images/expansion.jpg"
+  },
+  "footer": {
+    "legal": {
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "./privacy-terms.html"
+        },
+        {
+          "text": "Cookie Policy",
+          "url": "./cookie-terms.html"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "email": "support@domain.com",
+      "address": "42 Aviation Street, Sydney NSW 2000, Australia",
+      "phone": "+61 2 2972 8804"
+    },
+    "copyright": "© 2025 Domain.com | All rights reserved."
+  },
+  "airTrafficNews": {
+    "pageTitle": "Air Traffic News",
+    "description": "Latest updates from the world of aviation, game updates, and transport logistics news",
+    "news": [
+      {
+        "title": "New Terminal Management Features",
+        "date": "2024-03-20",
+        "image": "images/img-3.png",
+        "summary": "Introducing advanced terminal management with passenger flow analytics and real-time gate optimization.",
+        "content": "We're excited to announce the latest update to Airport Simulator: Plane Tycoon! This update brings powerful new terminal management features that will revolutionize how you handle passenger traffic and optimize your airport operations.",
+        "highlights": [
+          "Real-time passenger flow visualization",
+          "Smart gate assignment system",
+          "Terminal capacity analytics",
+          "Enhanced staff management"
+        ]
+      },
+      {
+        "title": "Sustainable Aviation Takes Flight",
+        "date": "2024-03-18",
+        "image": "images/img-4.png",
+        "summary": "Major airlines commit to sustainable aviation fuel initiatives, marking a significant step towards greener air travel.",
+        "content": "The aviation industry is making substantial progress in sustainable practices. Leading airlines have announced ambitious plans to increase their use of sustainable aviation fuel (SAF) over the next decade.",
+        "highlights": [
+          "50% emission reduction goals",
+          "New sustainable fuel partnerships",
+          "Electric aircraft developments",
+          "Green airport initiatives"
+        ]
+      },
+      {
+        "title": "AI Revolution in Cargo Handling",
+        "date": "2024-03-15",
+        "image": "images/img-5.png",
+        "summary": "Artificial Intelligence transforms airport cargo operations with smart sorting and predictive maintenance.",
+        "content": "The integration of AI in airport cargo operations is setting new standards for efficiency and reliability. Smart systems are now capable of optimizing cargo routes and predicting maintenance needs before they become critical.",
+        "highlights": [
+          "AI-powered sorting systems",
+          "Predictive maintenance",
+          "Route optimization",
+          "Real-time tracking improvements"
+        ]
+      },
+      {
+        "title": "Global Aviation Summit 2024",
+        "date": "2024-03-12",
+        "image": "images/img-6.png",
+        "summary": "Industry leaders gather to discuss the future of aviation and innovative airport management solutions.",
+        "content": "The Global Aviation Summit 2024 brought together experts from around the world to share insights on emerging trends and technologies in airport management and aviation operations.",
+        "highlights": [
+          "Future of airport automation",
+          "Sustainable operations",
+          "Digital transformation",
+          "Passenger experience innovations"
+        ]
+      }
+    ],
+    "featuredArticle": {
+      "title": "The Future of Airport Management",
+      "subtitle": "Exploring innovations that will shape the next decade of aviation",
+      "image": "images/img-1.png",
+      "sections": [
+        {
+          "title": "Smart Infrastructure",
+          "content": "The integration of IoT sensors and AI-driven systems is revolutionizing how airports monitor and maintain their infrastructure. From automated baggage handling to predictive maintenance of runways, smart technology is making operations more efficient and reliable.",
+          "icon": "🏗️"
+        },
+        {
+          "title": "Passenger Experience",
+          "content": "Biometric systems and mobile technology are streamlining the passenger journey from check-in to boarding. Digital twins of terminals help optimize passenger flow and reduce congestion points.",
+          "icon": "👥"
+        },
+        {
+          "title": "Sustainability",
+          "content": "Airports are leading the charge in sustainable aviation with solar-powered terminals, electric ground vehicles, and waste reduction programs. These initiatives are setting new standards for eco-friendly operations.",
+          "icon": "🌱"
+        },
+        {
+          "title": "Safety & Security",
+          "content": "Advanced scanning technology and AI-powered surveillance systems are enhancing airport security while maintaining efficient passenger flow. New health screening protocols are being integrated seamlessly into existing security measures.",
+          "icon": "🛡️"
+        }
+      ],
+      "conclusion": "As we look to the future, airports are becoming more than just transit hubs - they're evolving into smart, sustainable cities within cities. The next decade will bring unprecedented changes to how we think about and manage airport operations."
+    }
+  }
+}

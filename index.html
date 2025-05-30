@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Airport Simulator: Plane Tycoon</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+    <meta
+      name="description"
+      content="Build and manage your dream airport empire in this exciting simulation game. Control air traffic, expand terminals, and become an aviation mogul!"
+    />
+  </head>
+  <body>
+    <!-- Header will be dynamically inserted here -->
+    <div id="header-container"></div>
+
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="hero-content">
+        <h1 class="hero-title"></h1>
+        <p class="hero-description"></p>
+        <div class="hero-highlights"></div>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+      <h2 class="section-title"></h2>
+      <p class="section-subtitle features-subtitle"></p>
+      <div class="features-grid">
+        <!-- Dynamically populated -->
+      </div>
+    </section>
+
+    <!-- How to Play Section -->
+    <section id="how-to-play" class="how-to-play">
+      <h2 class="section-title"></h2>
+      <p class="section-subtitle how-to-play-subtitle"></p>
+      <div class="steps-container">
+        <!-- Dynamically populated -->
+      </div>
+    </section>
+
+    <!-- Game Section -->
+    <section id="game" class="game-container">
+      <div class="game-wrapper">
+        <iframe
+          src="https://html5.gamemonetize.co/n9m3edi2dwli9hcvgjol21vln1pza8u0/"
+          scrolling="no"
+          frameborder="0"
+          title="Airport Simulator: Plane Tycoon"
+          loading="lazy"
+          allow="fullscreen"
+        >
+        </iframe>
+      </div>
+    </section>
+
+    <!-- Reviews Section -->
+    <section id="reviews" class="reviews">
+      <h2 class="section-title"></h2>
+      <p class="section-subtitle reviews-subtitle"></p>
+
+      <!-- Stats Grid -->
+      <div class="reviews-stats">
+        <!-- Dynamically populated -->
+      </div>
+
+      <!-- Reviews Grid -->
+      <div class="reviews-grid">
+        <!-- Dynamically populated -->
+      </div>
+    </section>
+
+    <!-- Business Expansion Section -->
+    <section id="expansion" class="business-expansion">
+      <h2 class="section-title"></h2>
+      <p class="section-subtitle expansion-subtitle"></p>
+      <div class="expansion-features">
+        <!-- Dynamically populated -->
+      </div>
+    </section>
+
+    <!-- Footer will be dynamically inserted here -->
+    <div id="footer-container"></div>
+
+    <!-- Add before closing body tag -->
+    <div class="cookie-bar">
+      <div class="cookie-bar-text">
+        We use cookies to enhance your experience. By continuing to visit this
+        site you agree to our use of cookies.
+      </div>
+      <div class="cookie-bar-buttons">
+        <button class="cookie-accept-btn">Accept</button>
+      </div>
+    </div>
+
+    <script src="js/main.js"></script>
+    <script>
+      // Cookie bar functionality
+      document.addEventListener("DOMContentLoaded", function () {
+        const cookieBar = document.querySelector(".cookie-bar");
+        const acceptBtn = document.querySelector(".cookie-accept-btn");
+
+        // Show cookie bar with animation
+        setTimeout(() => {
+          cookieBar.classList.add("show");
+        }, 1000);
+
+        // Handle accept button click
+        acceptBtn.addEventListener("click", () => {
+          cookieBar.classList.remove("show");
+        });
+      });
+    </script>
+  </body>
+</html>
