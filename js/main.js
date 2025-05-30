@@ -36,7 +36,7 @@ function createHeader(headerData) {
     link.textContent = item.text;
 
     // Add special handling for How to Play link
-    if (item.url === "#how-to-play" || item.url.endsWith("/#how-to-play")) {
+    if (item.url === "#how-to-play" || item.url.endsWith("./#how-to-play")) {
       link.addEventListener("click", (e) => {
         e.preventDefault();
         // Check if we're on the home page
@@ -53,7 +53,7 @@ function createHeader(headerData) {
           }
         } else {
           // If not on home page, redirect to home page with hash
-          window.location.href = "/#how-to-play";
+          window.location.href = "./#how-to-play";
         }
       });
     }
